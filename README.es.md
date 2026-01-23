@@ -1,3 +1,11 @@
+
+Mejoras, hoy 23/1/2025.
+He mejorado la estructura de html
+He puesto en uso el row y col-
+He mejorado el responsive y por ultimo le he dado formato de documento. 
+
+
+
 # HTML Hello
 
 El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
